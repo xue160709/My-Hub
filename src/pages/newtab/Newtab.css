@@ -1,0 +1,28 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #FFFFFF;
+}
+.text-main {
+    color: #1A1A1A;
+}
+.text-secondary {
+    color: #6B7280;
+}
+.bg-secondary {
+    background-color: #F5F5F5;
+}
+.card {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    padding: 1.5rem;
+}
+.btn-capsule {
+    border-radius: 9999px;
+}
+.icon-linear {
+    font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+}
+.avatar-flat {
+    filter: grayscale(100%);
+}
